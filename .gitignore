@@ -1,0 +1,10 @@
+# Ignorar Dataset
+classificador-sentimentos/
+classificador-sentimentos_v1.tar.gz
+
+# Ignorar arquivos do Jupyter e Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.env
